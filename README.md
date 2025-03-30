@@ -16,7 +16,7 @@ Update tool openledger (https://testnet.openledger.xyz/?referral_code=3jf4iqmpey
 ===========================
 🖥 Hướng dẫn (yêu cầu có nodejs):
 
-1️⃣ git clone https://github.com/pmhieu111/openledger-phase2.git\
+1️⃣ git clone https://github.com/pmhieu111/openledger-phase2.git \
     cd openledger-phase2
 
 1️⃣ npm install để cập nhật module.
