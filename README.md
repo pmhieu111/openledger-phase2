@@ -1,7 +1,7 @@
 # openledger-phase2
-Update tool openledger (https://testnet.openledger.xyz/?referral_code=d55uot566i) sử dụng nodejs (noproxy và proxy)
+Update tool openledger (https://testnet.openledger.xyz/?referral_code=3jf4iqmpey) sử dụng nodejs (noproxy và proxy)
 
-🌐 Link:  Openledger (https://testnet.openledger.xyz/?referral_code=d55uot566i)
+🌐 Link:  Openledger (https://testnet.openledger.xyz/?referral_code=3jf4iqmpey)
 
 ⬇️ Link:  Extension (https://chromewebstore.google.com/detail/openledger-node/ekbbplmjjgoobhdlffmgeokalelnmjjc)
 
